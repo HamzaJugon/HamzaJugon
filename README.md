@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaJugon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach out to me on hamza@jugon.com
 
