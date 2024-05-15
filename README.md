@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
+<h1 align="center">👋, I'm Hamza</h1>
 <h3 align="center">Backend Software Engineer</h3>
 
 - 📫 How to reach me **hamza@jugon.com**
