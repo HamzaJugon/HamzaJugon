@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">Backend software engineer</h3>
+<h3 align="center">Backend Software Engineer</h3>
 
 - 📫 How to reach me **hamza@jugon.com**
 
